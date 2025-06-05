@@ -1,2 +1,2 @@
-# TestARGame2
+# AR2
 
